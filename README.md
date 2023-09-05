@@ -1,1 +1,1 @@
-**Conteúdo da aula de Arquivos**
+**Conteúdo da disciplina de Laboratório de Sistemas de Informação**
